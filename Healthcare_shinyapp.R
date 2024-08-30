@@ -1,7 +1,5 @@
 
 
-#Matthew's code
-
 library(shiny)
 library(tidyverse)
 library(caret)
